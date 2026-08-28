@@ -40,8 +40,8 @@ Currently, I'm interested in Web Development, Cybersecurity, Networking, and Dev
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/qurrota-ayun-66b21b333)
-- 🐙 Instagram: [Your Instagram](https://www.instagram.com/boori_iing/)
+- 💼 LinkedIn: [Qurrota Ayun](www.linkedin.com/in/qurrota-ayun-66b21b333)
+- 🐙 Instagram: [boori_iing](https://www.instagram.com/boori_iing/)
 
 ## ✨ Fun Facts
 
