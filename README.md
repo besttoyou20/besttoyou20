@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Qurrota A'yun 👋
 
-<<!--
-**besttoyou20/besttoyou20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+Hello! I'm Qurrota A'yun, an Information Engineering student at Universitas Negeri Surabaya who is passionate about technology and software development. I enjoy learning new technologies, building web-based applications, and exploring how technology can be used to solve real-world problems.
 
-Here are some ideas to get you started:
+Currently, I'm interested in Web Development, Cybersecurity, Networking, and DevOps. I’m always excited to learn, experiment, and improve my skills through projects and new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+
+### Programming Languages
+- Python
+- C++
+- JavaScript
+- PHP
+
+### Web Development
+- React
+- Vite
+- Tailwind CSS
+- Laravel
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+- MongoDB
+
+### Networking & Tools
+- Git & GitHub
+- Linux
+- MikroTik
+- GNS3
+- Docker
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=besttoyou20E&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=besttoyou20&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/qurrota-ayun-66b21b333)
+- 🐙 Instagram: [Your Instagram](https://www.instagram.com/boori_iing/)
+
+## ✨ Fun Facts
+
+- 💡 I enjoy turning ideas into functional applications.
+- 🌐 I'm interested in exploring web development, networking, cybersecurity, and DevOps.
+- 📚 I believe that every project is an opportunity to learn something new.
+- 🚀 Still learning, still building, and still improving!
+
+> "Great things are built one line of code at a time." 💻✨
