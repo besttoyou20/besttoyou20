@@ -34,8 +34,6 @@ Currently, I'm interested in Web Development, Cybersecurity, Networking, and Dev
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=besttoyou20E&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=besttoyou20&theme=tokyonight)
 
 ## 🌐 Connect With Me
