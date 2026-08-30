@@ -38,14 +38,12 @@ Currently, I'm interested in Web Development, Cybersecurity, Networking, and Dev
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Qurrota Ayun](www.linkedin.com/in/qurrota-ayun-66b21b333)
-- 🐙 Instagram: [boori_iing](https://www.instagram.com/boori_iing/)
+-  LinkedIn: [Qurrota Ayun](www.linkedin.com/in/qurrota-ayun-66b21b333)
+-  Instagram: [boori_iing](https://www.instagram.com/boori_iing/)
 
 ## ✨ Fun Facts
-
-- 💡 I enjoy turning ideas into functional applications.
-- 🌐 I'm interested in exploring web development, networking, cybersecurity, and DevOps.
-- 📚 I believe that every project is an opportunity to learn something new.
-- 🚀 Still learning, still building, and still improving!
+-  I'm interested in exploring web development, networking, cybersecurity, and DevOps.
+-  I believe that every project is an opportunity to learn something new.
+-  Still learning, still building, and still improving!
 
 > "Great things are built one line of code at a time." 💻✨
